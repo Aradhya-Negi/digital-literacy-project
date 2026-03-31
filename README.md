@@ -1,7 +1,7 @@
 # Digital Literacy Portfolio - CSE0001
-**Name:** Aradhya Negi
-**Registration Number:** 25BOE10086
-**Branch:** B.Tech Bioengineering
+#**Name:** Aradhya Negi
+#**Registration Number:** 25BOE10086
+#**Branch:** B.Tech Bioengineering
 
 ## Project Overview
 This repository contains my Digital Literacy Portfolio, showcasing a guide for digital presence, safe communication, and online tools.
